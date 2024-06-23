@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: Urbariát Dulova Ves
 ---
 
 
-Test my blog
+Tu budú publikované verejné informácie urbariátu Dulova Ves
