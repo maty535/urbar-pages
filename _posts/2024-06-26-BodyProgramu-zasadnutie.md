@@ -1,3 +1,7 @@
+---
+title: "Body programu na nasledujúce stretnutie výkonneho výboru"
+date: 2024-06-26
+---
 Navrh bodov programu pre nasledujuce zasadnutie vykonneho vyboru:
 
 1. Hrube neeticke spravanie clena vyboru, ktory manipuloval s vysledkami volieb do vykonneho vyboru, snazil sa hrubo neeticky konat voci inemu clenovi vykonneho vyboru a nesplnil si povinnost pripravit zapisnicu z volby statutarov. (prezentuje: statutar,)
