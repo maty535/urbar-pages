@@ -4,7 +4,7 @@ date: 2024-06-26
 ---
 Navrh bodov programu pre nasledujuce zasadnutie vykonneho vyboru:
 
-1. Prerokovanie a upozornenie clena vyboru na jeho disciplinarne prehresky, ktory manipuloval s vysledkami volieb do vykonneho vyboru, snazil sa hrubo neeticky konat voci inemu clenovi vykonneho vyboru a nesplnil si povinnost pripravit zapisnicu z volby statutarov. (predklada: statutar: Peter Semes) - otzka ci ma byt podany navrh na jeho odvolanie a zvolane nove valne zhromazdenie.
+1. Prerokovanie disciplinarnych prehreskov clena vyboru, ktory manipuloval s vysledkami volieb do vykonneho vyboru, neeticky konal voci inemu clenovi vykonneho vyboru a nesplnil si povinnost pripravit zapisnicu z volby statutarov. (predklada: statutar: Peter Semes) Napravne opatrenie: verejne upozornenie + obmedzenie cinnosti pripravovat zapisnice z valnych zhromazdeni a sucasne viest valne zhromazdenie + pozastavenie cinnosti byt overovatelom zapisnic z vykonneho vyboru.
 2. Poziadavka na audit predchadzajucich tazieb dreva (aj vnutorny, zodpovedny pan Pusty, predklada: Matus Bidovsky, vlastne len prezentacia co chceme od p. Pusteho)
 3. Audit uctovnicva, t.z. prehlad vsetkych upominacich konani, resp. exekucii aj s plnou dokumentaciou a pristup na slovensko.sk (zodpovedna p. Dorkova), [predklada Matus Ivanecky]
 4. Audit a geneza sporu Urbar vs. p Jarkovsky ( predlozenie kompletnej dokumentacie, spisov, sprav, aktivit  a korespondencie , ktoru viedol urbar s p. Jarkovskych) [predklada: p. Ginovska]
