@@ -1,4 +1,9 @@
 theme: minima
 
 minima:
-  date_format: "%dd. %MM, %Y"
+  date_format: "%d. %m. %Y"
+
+header_pages:
+  - README.md
+  - about.md
+  - contacts.md
